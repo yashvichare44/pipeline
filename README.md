@@ -1,3 +1,9 @@
+<img width="1470" alt="Screenshot 2025-03-02 at 4 41 14 AM" src="https://github.com/user-attachments/assets/7c8ceb66-3a31-48a6-9ec4-9fa003eea232" />
+<img width="1470" alt="Screenshot 2025-03-02 at 4 45 10 AM" src="https://github.com/user-attachments/assets/2f514ad8-7984-4399-8134-ee4e51108876" />
+<img width="1470" alt="Screenshot 2025-03-02 at 4 41 07 AM" src="https://github.com/user-attachments/assets/46928154-b60a-4112-b57e-c0bb563d732c" />
+<img width="1470" alt="Screenshot 2025-03-02 at 4 40 52 AM" src="https://github.com/user-attachments/assets/4b833e70-14c8-4ad7-8c45-7ed08ad9475b" />
+<img width="1470" alt="Screenshot 2025-03-02 at 4 40 02 AM" src="https://github.com/user-attachments/assets/c53e18fa-52b0-4053-85d4-102c79d919e1" />
+
 # BoardgameListingWebApp
 
 ## Description
